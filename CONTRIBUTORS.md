@@ -2427,3 +2427,8 @@ Noida
 - Place: Natal, Brazil
 - Bio: Web developer PHP and Python
 - Github: [Ítalo Epifânio](https://github.com/itepifanio)
+
+#### Name: [Cross Forde](https://github.com/Conflik9929)
+- Place: United States
+- Bio: Beginner JS and HTML programmer
+- Github: [Conflik9929](https://github.com/Conflik9929)
